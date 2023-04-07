@@ -1,3 +1,8 @@
+Here is some files about work and data analysis in Google Shets
+
+Файлы с пимерами анализа данных в Google Shets
+
+
 Анализ данных по продажам за месяц
 https://docs.google.com/spreadsheets/d/1QcFXaewXUJAsfgEfevMQoEAXdeGVSTldd4Kyym-dQ34/edit?usp=sharing
 
